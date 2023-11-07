@@ -1,4 +1,4 @@
-Magus Technologies - What We Do is Magic
+Magus Corp - What We Do is Magic
 =====================================
 
 Welcome to Magus Technologies, we are a public benefit company, for-profit (The order of the tokens matter). Our mission is to make artificial intelligence (AI) accessible and affordable for everyone. We believe that AI is not just a tool but a human right, and we strive to leverage its power to revolutionize various industries and improve people's lives.
