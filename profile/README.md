@@ -1,7 +1,7 @@
 Magus Corp - What We Do is Magic
 =====================================
 
-Welcome to Magus Technologies, we are a public benefit company, for-profit (The order of the tokens matter). Our mission is to make artificial intelligence (AI) accessible and affordable for everyone. We believe that AI is not just a tool but a human right, and we strive to leverage its power to revolutionize various industries and improve people's lives.
+Welcome to Magus Corp, we are a public benefit company, for-profit (The order of the tokens matter). Our mission is to make artificial intelligence (AI) accessible and affordable for everyone. We believe that AI is not just a tool but a human right, and we strive to leverage its power to revolutionize various industries and improve people's lives.
 
 Open Source and Hardware
 ---------------------------
@@ -11,7 +11,7 @@ We believe in collaboration and openness, which is why all of our Public Knowled
 Our Process
 ------------
 
-At Magus Technologies, we use various AI models and techniques to train our models for different industries, governments, entities, and persons. From simple chatbots to models that help find new materials! We also breathe new life into old hardware by repurposing it for our products and processes. F programed obsolence! Reuse, Repurpuse, Recycle.
+At Magus Corp, we use various AI models and techniques to train our models for different industries, governments, entities, and persons. From simple chatbots to models that help find new materials! We also breathe new life into old hardware by repurposing it for our products and processes. F programed obsolence! Reuse, Repurpuse, Recycle.
 
 Our Public Knowledge Projects:
 ----------------------------
