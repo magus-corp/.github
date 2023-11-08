@@ -18,7 +18,7 @@ Our Public Knowledge Projects:
 
 ### Legislinho - Your Legislative Assistant
 
-Legislinho is a transformer-based chatbot agent trained to assist and facilitate work with Brazilian legislation documents. We believe that every government should be transparent and non-reliable on foreign companies. Having all its sensitive data stored, processed, and worked "in-house" as opposed to sending it to an overseas server. Remember the 2015 NSA scandal? And now, the legislative power wants to send all the data? To us, it seems like a shitty idea. And they made it "pro bono" why is that?
+Legislinho is a transformer-based chat agent trained to assist and facilitate work with Brazilian legislation documents. We believe that every government should be transparent and non-reliable on foreign companies. Having all its sensitive data stored, processed, and worked "in-house" as opposed to sending it to an overseas server. Remember the 2015 NSA scandal? And now, the legislative power wants to send all the data? To us, it seems like a shitty idea. And they made it "pro bono" why is that?
 
 *Public release date of the repository:* As soon we have a very shitty MVP.
 
