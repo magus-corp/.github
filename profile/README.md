@@ -36,12 +36,11 @@ Huginn is a modular drone based on ESP32 designed to be expandable, allowing use
 
 *Public release date of the repository:* When we have a very shitty but functional and in-field tested MVP.
 
-### Node - Cheap Personal Server Appliance
+### Ch.A.P.S. - Cheap Appliance Personal Server
 
 Our personal server node is a low-configuration, open-source appliance created from old data center parts. It's an affordable way to create your own personal cloud 
 server without breaking the bank. Our Node product is a personal server that has been transformed from used data center parts into an easy-to-use appliance. With its 
-low configuration requirements, Node is the perfect solution for small businesses and individuals looking to get started with AI 
-quickly and easily.
+low configuration requirements, Node is the perfect solution for small businesses and individuals looking to get started with AI quickly and easily.
 
 *Public release date of the repository:* When we have a scalable MVP.
 
