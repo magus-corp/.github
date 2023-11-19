@@ -11,7 +11,7 @@ We believe in collaboration and openness, which is why all of our Public Knowled
 Our Process
 ------------
 
-At Magus Corp, we use various AI models and techniques to train our models for different industries, governments, entities, and persons. From simple chatbots to models that help find new materials! We also breathe new life into old hardware by repurposing it for our products and processes. F planned obsolescence! Reuse, Repurpuse, Recycle.
+At Magus Corp, we use various AI models and techniques to train our models for different industries, governments, entities, and persons. From simple chat agents to models that help find new materials! We also breathe new life into old hardware by repurposing it for our products and processes. F planned obsolescence! Reuse, Repurpuse, Recycle.
 
 Our Public Knowledge Projects:
 ----------------------------
