@@ -20,7 +20,7 @@ Our Public Knowledge Projects:
 
 Legislinho is a transformer-based chat agent trained to assist and facilitate work with Brazilian legislation documents. We believe that every government should be transparent and non-reliable on foreign companies. Having all its sensitive data stored, processed, and worked "in-house" as opposed to sending it to an overseas server.
 
-*Public release date of the repository:* As soon we have a very shitty MVP.
+~*Public release date of the repository:* As soon we have a very shitty MVP.~ 03/18/2024
 
 ### AlcheMyst Lab - The All-in-One Tool for Magicians
 
