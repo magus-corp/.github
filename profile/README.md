@@ -1,5 +1,6 @@
 # Magus Corp - Where AI Meets Magic
-=====
+
+
 **Welcome to the future of AI**
 
 We're Magus Corp, a public benefit company on a mission to make artificial intelligence (AI) accessible and affordable for everyone. We believe that AI is not just a tool, but a human right that can revolutionize various industries and improve people's lives.
