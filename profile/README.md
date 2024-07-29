@@ -1,46 +1,61 @@
-Magus Corp - What We Do is Magic
-=====================================
+# Magus Corp - Where AI Meets Magic
+=================================
+**Welcome to the future of AI**
 
-Welcome to Magus Corp, we are a public benefit company, for-profit (The order of the tokens matter). Our mission is to make artificial intelligence (AI) accessible and affordable for everyone. We believe that AI is not just a tool but a human right, and we strive to leverage its power to revolutionize various industries and improve people's lives.
+We're Magus Corp, a public benefit company on a mission to make artificial intelligence (AI) accessible and affordable for everyone. We believe that AI is not just a tool, but a human right that can revolutionize various industries and improve people's lives.
 
-Open Source and Hardware
----------------------------
+## **Our Story**
 
-We believe in collaboration and openness, which is why all of our Public Knowledge Projects (PKP) are open-source and open hardware. You can download the code and modify it to fit your needs. We encourage everyone to contribute to our community and help us improve our projects. Although we don't have money to create bounties,we are in the preseed phase and are still broke as f. Looking to investors to go full time and accelerate the process. But we will do it regardless. For now we are just a bunch of human souls and they imaginnary friends trying to make an impact.
+We're a group of passionate individuals who are fed up with the status quo. We think that AI should be a force for good, not just a privilege for the few. That's why we're working tirelessly to create innovative solutions that make AI accessible to everyone.
 
-Our Process
-------------
+## **Our Projects**
 
-At Magus Corp, we use various AI models and techniques to train our models for different industries, governments, entities, and persons. From simple chat agents to models that help find new materials! We also breathe new life into old hardware by repurposing it for our products and processes. F planned obsolescence! Reuse, Repurpuse, Recycle.
-
-Our Public Knowledge Projects:
-----------------------------
+We're currently working on several exciting projects that showcase the power of AI. Here's a sneak peek:
 
 ### Legislinho - Your Legislative Assistant
 
-Legislinho is a transformer-based chat agent trained to assist and facilitate work with Brazilian legislation documents. We believe that every government should be transparent and non-reliable on foreign companies. Having all its sensitive data stored, processed, and worked "in-house" as opposed to sending it to an overseas server.
+Imagine having a personal assistant that helps you navigate the complexities of Brazilian legislation. Legislinho is a transformer-based chat agent that does just that. With Legislinho, you'll never have to worry about tedious paperwork or bureaucratic red tape again.
 
-~*Public release date of the repository:* As soon we have a very shitty MVP.~ 03/18/2024
+
+    Public release date: March 18, 2024 (or sooner, if we can pull it off)
+
 
 ### AlcheMyst Lab - The All-in-One Tool for Magicians
 
-AlcheMyst Lab or Alchemical Mystical Lab is a Python, browser-based tool inspired by comfyui. It's a node-based, pipeline creation and managing tool capable of manipulating image, video, text, and all at the same time!
+Are you a creative genius who wants to bring your ideas to life? AlcheMyst Lab is a Python, browser-based tool that lets you manipulate image, video, text, and more. With AlcheMyst Lab, you'll never have to worry about coding skills again - just focus on creating magic!
 
-We want to give people that cannot code, but have an idea, the capability to execute it, with minimal study. And for the fullfledged manipulators of magical language (python in this case) we want to a easy interface to create custom nodes from code, onthefly. As well the insights that came from a visual representation of code.
 
-*Public release date of the repository:* When we have a very shitty but stable MVP.
+    Public release date: When we've conjured up a stable MVP
+
 
 ### Huginn - The Modular Drone
 
-Huginn is a modular drone based on ESP32 designed to be expandable, allowing users to customize it according to their needs. With Huginn, you can use AI models for various purposes such as image and object recognition, tracking, and mapping. Civil and industrial applications are almost endless! Can an ESP32 run a model? Kinda, we can use a very small liquid NN to stabilize the flight. But the "intelligence" of the drone lives in your personal computer, personal cloud infrastructure, or rented cloud. Always in mind the objective, dirt cheap technology.
+Meet Huginn, the modular drone that's changing the game. Based on ESP32, Huginn is designed for expandability and customization. With Huginn, you'll never have to worry about expensive hardware again - just build, create, and fly!
 
-*Public release date of the repository:* When we have a very shitty but functional and in-field tested MVP.
+
+    Public release date: When we've tested Huginn in the field and made sure it's stable
+
 
 ### Ch.A.P.S. - Cheap Appliance Personal Server
 
-Our personal server node is a low-configuration, open-source appliance created from old data center parts. It's an affordable way to create your own personal cloud 
-server without breaking the bank. Our Node product is a personal server that has been transformed from used data center parts into an easy-to-use appliance. With its 
-low configuration requirements, Node is the perfect solution for small businesses and individuals looking to get started with AI quickly and easily.
+Are you tired of expensive cloud services that drain your wallet? Ch.A.P.S. is a low-configuration, open-source appliance that lets you create your own personal cloud server. With Ch.A.P.S., you'll never have to worry about data security or expensive fees again - just host, store, and enjoy!
 
-*Public release date of the repository:* When we have a scalable MVP.
 
+    Public release date: When we've perfected the recipe for a scalable MVP
+
+
+### Join the Movement
+
+We're not just building projects - we're building a community. If you're passionate about AI, open-source, and making a difference, we'd love to have you along for the ride.
+
+Follow us on GitHub to stay up-to-date on our latest projects and releases. We're always looking for talented individuals to collaborate with, so don't be shy to reach out and say hello!
+
+We're not perfect, but we're trying
+
+We're a pre-seed company, which means we're still figuring things out. We don't have all the resources we need, but we're determined to make a difference. If you're willing to take a chance on us, we promise to deliver something amazing.
+
+Thanks for joining us on this journey!
+
+Best,
+The Magus Corp team
+costa@maguscorp.com.br
