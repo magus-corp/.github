@@ -13,12 +13,12 @@ We're a group of passionate individuals who are fed up with the status quo. We t
 
 We're currently working on several exciting projects that showcase the power of AI. Here's a sneak peek:
 
-### Legislinho - Your Legislative Assistant
+### LegislinhoV0 - Your Legislative Assistant
 
 Imagine having a personal assistant that helps you navigate the complexities of Brazilian legislation. Legislinho is a transformer-based chat agent that does just that. With Legislinho, you'll never have to worry about tedious paperwork or bureaucratic red tape again.
 
 
-    Public release date: March 18, 2024 (or sooner, if we can pull it off)
+    Public release date: March 18, 2024
 
 
 ### AlcheMyst Lab - The All-in-One Tool for Magicians
@@ -34,7 +34,7 @@ Are you a creative genius who wants to bring your ideas to life? AlcheMyst Lab i
 Meet Huginn, the modular drone that's changing the game. Based on ESP32, Huginn is designed for expandability and customization. With Huginn, you'll never have to worry about expensive hardware again - just build, create, and fly!
 
 
-    Public release date: When we've tested Huginn in the field and made sure it's stable
+    Public release date: When we've tested Huginn in the field and made sure it's stable and safe
 
 
 ### Ch.A.P.S. - Cheap Appliance Personal Server
